@@ -1,2 +1,2 @@
 # yeatslu.github.io
-Mine Tech Blog
+Main Site
